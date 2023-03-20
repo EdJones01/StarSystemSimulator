@@ -1,0 +1,18 @@
+<br>
+<b>Controls</b><br>
+<br>
+Mouse<br>
+&bull; [Left Click] - Select body<br>
+&bull; [Right Click] - Drag to move camera<br>
+&bull; [Scroll Wheel] - Increase/decrease simulation speed<br>
+&bull; [Middle Mouse Button] - Create new body<br>
+<br>
+Mouse<br>
+&bull; [Space] - Pause simulation<br>
+&bull; [P] - Toggle path display<br>
+&bull; [Up/Down Arrow] - Increase/decrease path size<br>
+&bull; [Left/Right Arrow] - Increase/decrease path resolution<br>
+&bull; [Delete] - Delete selected body<br>
+&bull; [Escape] - Hide config panel<br>
+&bull; [F] - Freeze selected body<br>
+<br>
